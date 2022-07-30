@@ -1,6 +1,9 @@
 # GitCommands
 Commonly used Git commands
 
+Reference: <https://dev.to/benmatselby/git-commands-to-get-you-through-the-day-191i>
+
+
 ```bash
 git status # to know the current status of the repo
 git add . # adding all the files to stage
